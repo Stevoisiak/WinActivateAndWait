@@ -17,6 +17,8 @@ While makng use of [Elgn's wrapper for the Java Access Bridge](https://autohotke
 I needed a reliable way of activating Java-based web applications. I found that
 WinActivate wasn't consistenly reliable, so I wrote this instead.
 
+[Credit to Jim U for the idea](https://stackoverflow.com/q/46061982/3357935)
+
 ### Example Usage
 
 ```
