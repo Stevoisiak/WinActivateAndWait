@@ -13,7 +13,7 @@ unresponsive or delayed when responding to WinActivate.
 
 ### Why did I write this?
 
-While makng use of [Elgn's wrapper for the Java Access Bridge](https://autohotkey.com/board/topic/95343-how-to-send-to-unseen-controls-in-a-java-app/?p=601593),
+While making use of [Elgn's wrapper for the Java Access Bridge](https://autohotkey.com/board/topic/95343-how-to-send-to-unseen-controls-in-a-java-app/?p=601593),
 I needed a reliable way of activating Java-based web applications. I found that
 WinActivate wasn't consistenly reliable, so I wrote this instead.
 
